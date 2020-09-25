@@ -1,0 +1,78 @@
+---
+booktitle: Proceedings of The 12th Asian Conference on Machine Learning
+shortname: ACML
+volume: 129
+year: '2020'
+start: 2020-11-18
+end: 2020-11-20
+published: 2020-09-25
+url: http://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ACML-2020
+month: 0
+cycles: false
+bibtex_editor: Pan, Sinno Jialin and Sugiyama, Masashi
+editor:
+- given: Sinno Jialin
+  family: Pan
+- given: Masashi
+  family: Sugiyama
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 12th Asian Conference on Machine Learning
+    Held in Bangkok, Thailand on 18-20 November 2020
+
+  Published as Volume 129 by the Proceedings of Machine Learning Research on 25 September 2020.
+
+  Volume Edited by:
+    Sinno Jialin Pan
+    Masashi Sugiyama
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 18--20 Nov
+author:
+  name: PMLR
+baseurl: "/v129"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v129
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Asian Conference on Machine Learning
+  url: 
+  location: Bangkok, Thailand
+  dates:
+  - 2020-11-18
+  - 2020-11-19
+  - 2020-11-20
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v129/acml20.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v129/acml20.bib
